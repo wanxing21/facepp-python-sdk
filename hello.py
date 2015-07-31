@@ -9,8 +9,8 @@
 
 # You need to register your App first, and enter you API key/secret.
 # 您需要先注册一个App，并将得到的API key和API secret写在这里。
-API_KEY = '<your API key here>'
-API_SECRET = '<your API secret here>'
+API_KEY = '417f77e0b783cdc9a99aae0ee7f54fda'
+API_SECRET = 'dXlQldhEiZa8PrIRhBCIiOLWadCSV2IZ'
 
 # Import system libraries and define helper functions
 # 导入系统库并定义辅助函数
